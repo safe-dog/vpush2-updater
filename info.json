@@ -1,6 +1,6 @@
 {
-  "date": 20190610,
+  "date": 20190625,
   "title": "新版本发布",
-  "description": "Hi！vPush发布新版本啦：\n1. 新增安装向导\n2. 新增https支持\n3. 新增json格式推送接口",
-  "download_url": "http://doc.vpush.pro/1108976"
+  "description": "Hi！vPush发布新版本啦：\n1. 新增定时推送设置\n2. 新增分类推送群发\n3. 新增在线系统设置\n更新方法：http://doc.vpush.pro/1108981",
+  "download_url": "https://vpush.pro/download.html"
 }
