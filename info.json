@@ -1,6 +1,6 @@
 {
-  "date": 20190625,
+  "date": 20190715,
   "title": "新版本发布",
-  "description": "Hi！vPush发布新版本啦：\n1. 新增定时推送设置\n2. 新增分类推送群发\n3. 新增在线系统设置\n更新方法：http://doc.vpush.pro/1108981",
+  "description": "Hi！vPush发布新版本啦：\n1. 更新在线配置系统\n2. 修复许可证书验证逻辑\n3. 上线了在线部署代理平台（https://bigse.cn）\n更新方法：http://doc.vpush.pro/1108981",
   "download_url": "https://vpush.pro/download.html"
 }
